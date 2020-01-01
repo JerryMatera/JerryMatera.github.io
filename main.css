@@ -9,7 +9,6 @@ body {
     height: 100vh;
     background-color: black;
     color: #fff;
-    /* font-family: 'Ma Shan Zheng', cursive; */
     font-family: 'Source Code Pro', monospace;
     display: flex;
 }
